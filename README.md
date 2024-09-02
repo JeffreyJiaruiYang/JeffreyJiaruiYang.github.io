@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Jeffrey Jiarui Yang] 👋    
 
 ### 🚀 About Me
 I'm a senior Computer Science student with a passion for mobile app development, particularly using Kotlin and Android. My expertise lies in creating interactive and user-friendly applications that integrate with various APIs and leverage modern development practices.
