@@ -6,8 +6,8 @@ I'm a senior Computer Science student with a passion for mobile app development,
 ### 💻 Skills
 - **Languages:** Kotlin, Java, Prolog, Python
 - **Frameworks/Libraries:** Android SDK, Jetpack, Retrofit, Room
-- **Tools:** Git, Android Studio, IntelliJ IDEA, JIRA, Figma
-- **Databases:** SQLite, Firebase Firestore
+- **Tools:** Git, Android Studio, IntelliJ IDEA, Figma
+- **Databases:** SQLite
 - **Other:** REST API, JSON, Mobile UI/UX Design
 
 ### 🌱 What I'm Working On
