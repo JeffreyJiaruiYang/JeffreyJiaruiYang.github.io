@@ -32,8 +32,9 @@ I'm a senior Computer Science student with a passion for mobile app development,
 Did you know? I love combining art with code to create visually stunning and functional applications.
 
 ### 🔗 Quick Links       
-- [Nokia N9 Fan-Made Promo Video](https://www.bilibili.com/video/BV127411s7nb/?spm_id_from=333.999.0.0)
+- [My demo for Nokia N9 Fan-Made Promo Video](https://www.bilibili.com/video/BV127411s7nb/?spm_id_from=333.999.0.0)
 - [My Resume](https://olive-dionne-71.tiiny.site)
+- [Some of my artwork](https://www.bilibili.com/video/BV1o7411i7YZ/?spm_id_from=333.999.0.0)     
 
 ### 📝 Blog Posts              
 - **[cardboard car project](https://jeffrey-yang.blogspot.com/2024/08/other-activity.html):** auto path-finding cardboard car.
