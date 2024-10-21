@@ -15,7 +15,7 @@ I'm a senior Computer Science student with a passion for mobile app development,
 - A Blacksburg Farmers Market app that helps people learn about products and get the latest news.
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffreyJiaruiYang&show_icons=true&theme=radical)
 
 ### 📫 How to reach me
 - **Email:** [jeffreyjr@vt.edu](jeffreyjr@vt.edu)  
